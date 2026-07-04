@@ -43,6 +43,7 @@ ecommerce-sales-dashboard/
 ## Dashboard
 
 `dashboard/Ecommerce_Sales_Dashboard.pbix` contains the full Power BI report (data model, measures, and report pages). Open with Power BI Desktop.
+<img width="1321" height="747" alt="Screenshot 2026-07-04 223824" src="https://github.com/user-attachments/assets/a0045b85-923c-4293-b998-63bffc604ed1" />
 
 ## Setup
 
